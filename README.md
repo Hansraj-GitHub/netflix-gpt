@@ -1,6 +1,11 @@
 # netflix-gpt
 - create react app
 - configure TailwindCss
+- Header
+- Routing of App
+- Login Form
+- Sign up Form
+- Form Validation
 
 # Features
 
